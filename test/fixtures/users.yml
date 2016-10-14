@@ -8,21 +8,21 @@ michael:
 
 archer:
   name: Sterling Archer
-  email: duchess@example.gov
+  email: duchess@example.com
   password_digest: <%= User.digest('password') %>
   activated: true
   activated_at: <%= Time.zone.now %>
 
 lana:
   name: Lana Kane
-  email: hands@example.gov
+  email: hands@example.com
   password_digest: <%= User.digest('password') %>
   activated: true
   activated_at: <%= Time.zone.now %>
 
 mallory:
   name: Mallory Archer
-  email: boss@example.gov
+  email: boss@example.com
   password_digest: <%= User.digest('password') %>
   activated: true
   activated_at: <%= Time.zone.now %>
