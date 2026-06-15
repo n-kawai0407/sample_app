@@ -53,9 +53,15 @@
 | [18-clf-or-saa-which-first.md](./articles/18-clf-or-saa-which-first.md) | #27+#36 | CLFとSAAどっちから・何時間（初心者集客） |
 | [19-what-to-take-after-saa.md](./articles/19-what-to-take-after-saa.md) | #71 | SAAの次に取る資格【キャリア別】 |
 | [20-microservices-regret-and-win.md](./articles/20-microservices-regret-and-win.md) | #62 | マイクロサービス後悔/良かった（設計判断） |
+| [21-dr-four-strategies.md](./articles/21-dr-four-strategies.md) | #64 | DR戦略4パターンを現場目線で（設計判断） |
+| [22-bastion-is-old-session-manager.md](./articles/22-bastion-is-old-session-manager.md) | #82 | 踏み台はもう古い？Session Manager（運用・差別化） |
+| [23-cloudfront-beyond-cdn.md](./articles/23-cloudfront-beyond-cdn.md) | #44 | CloudFront CDN以外の使いどころ（深掘り） |
+| [24-cloudwatch-minimum-monitoring.md](./articles/24-cloudwatch-minimum-monitoring.md) | #7 | CloudWatch最低限の監視設定（運用・必須） |
+| [25-why-you-fail-practice-exams.md](./articles/25-why-you-fail-practice-exams.md) | #30 | 模試で点が取れない人の共通パターン（集客） |
+| [26-stuck-in-3-months-as-beginner.md](./articles/26-stuck-in-3-months-as-beginner.md) | #23 | 未経験から3ヶ月で詰んだこと（共感・拡散） |
 
-> 記事は **技術深掘り（04,05,06,07,09,10,11,13,14,15,16,17,20）× 学習法（01,02,18）× キャリア/共感（03,08,12,19）** と
-> カテゴリを散らし、ブランドに幅を持たせています。計20本＝週末1本ペースで約5ヶ月分の発信ストック。
+> 記事は **技術深掘り（04,05,06,07,09,10,11,13,14,15,16,17,20,21,22,23,24）× 学習法（01,02,18,25）× キャリア/共感（03,08,12,19,26）** と
+> カテゴリを散らし、ブランドに幅を持たせています。計26本＝週末1本ペースで約6ヶ月分の発信ストック。
 > 技術記事（Zenn/Qiitaで信頼構築）と拡散記事（X/noteで認知拡大）の両輪が揃っています。
 
 ## 使い方
