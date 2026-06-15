@@ -40,9 +40,16 @@
 | [06-multi-az-vs-multi-region.md](./articles/06-multi-az-vs-multi-region.md) | #8 | マルチAZ vs マルチリージョン（設計判断） |
 | [07-well-architected-in-plain-words.md](./articles/07-well-architected-in-plain-words.md) | #56 | Well-Architectedを現場の言葉で（設計思想） |
 | [08-does-aws-cert-help-career.md](./articles/08-does-aws-cert-help-career.md) | #66 | 資格は転職に効くか（キャリア・拡散） |
+| [09-s3-is-not-just-storage.md](./articles/09-s3-is-not-just-storage.md) | #41 | S3は「ただのストレージ」ではない（最頻出深掘り） |
+| [10-dynamodb-mindset-from-rdb.md](./articles/10-dynamodb-mindset-from-rdb.md) | #46 | RDB勢がDynamoDBでハマる思想（中級深掘り） |
+| [11-iam-permission-error-debugging.md](./articles/11-iam-permission-error-debugging.md) | #88 | IAM権限エラーのデバッグ手順（トラブル診断） |
+| [12-cant-build-anything-after-cert.md](./articles/12-cant-build-anything-after-cert.md) | #17 | 合格したのに作れないを抜ける（共感・拡散） |
+| [13-when-to-go-serverless.md](./articles/13-when-to-go-serverless.md) | #61 | サーバーレスにすべき時・否（設計判断） |
+| [14-why-iac-is-essential.md](./articles/14-why-iac-is-essential.md) | #77 | なぜIaC(Terraform)が必須か（資格の次の一歩） |
 
-> 記事は **技術深掘り（04,05,06,07）× 学習法（01,02）× キャリア/共感（03,08）** とカテゴリを散らし、
-> ブランドに幅を持たせています。週末に1本ずつ仕上げて発信ストックを積み上げてください。
+> 記事は **技術深掘り（04,05,06,07,09,10,11,13,14）× 学習法（01,02）× キャリア/共感（03,08,12）** と
+> カテゴリを散らし、ブランドに幅を持たせています。計14本＝週末1本ペースで約3〜4ヶ月分の発信ストック。
+> 技術記事（Zenn/Qiitaで信頼構築）と拡散記事（X/noteで認知拡大）の両輪が揃っています。
 
 ## 使い方
 
