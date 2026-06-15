@@ -23,7 +23,8 @@
 |---|---|---|
 | [01-content-ideas-100.md](./01-content-ideas-100.md) | 発信ネタ100本 | Phase 1 の発信（Zenn / X / note） |
 | [02-first-article-draft.md](./02-first-article-draft.md) | 最初の記事ドラフト | Zenn / note 初回投稿 |
-| [03-learning-roadmap.md](./03-learning-roadmap.md) | AWS学習ロードマップ | Phase 2 の無料配布リードマグネット |
+| [03-learning-roadmap.md](./03-learning-roadmap.md) | AWS学習ロードマップ（骨子） | Phase 2 の無料配布リードマグネット |
+| [lead-magnet/saa-roadmap-complete.md](./lead-magnet/saa-roadmap-complete.md) | リードマグネット完成版（配布用PDF本文） | Phase 2 のメルマガ/LINE登録特典 |
 | [04-practice-questions.md](./04-practice-questions.md) | 問題集の構成＋サンプル10問 | Phase 3 の主力商品（お試し版） |
 | [05-practice-questions-vol1.md](./05-practice-questions-vol1.md) | カテゴリ別問題集 全30問 | Phase 3 の主力商品（有料1冊） |
 | [articles/](./articles/) | 追加の記事ドラフト集 | Phase 1 の発信ストック |
