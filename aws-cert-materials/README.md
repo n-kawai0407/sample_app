@@ -47,9 +47,15 @@
 | [12-cant-build-anything-after-cert.md](./articles/12-cant-build-anything-after-cert.md) | #17 | 合格したのに作れないを抜ける（共感・拡散） |
 | [13-when-to-go-serverless.md](./articles/13-when-to-go-serverless.md) | #61 | サーバーレスにすべき時・否（設計判断） |
 | [14-why-iac-is-essential.md](./articles/14-why-iac-is-essential.md) | #77 | なぜIaC(Terraform)が必須か（資格の次の一歩） |
+| [15-cost-optimization-top10.md](./articles/15-cost-optimization-top10.md) | #59 | コスト削れる無駄ベスト10（拡散・実務） |
+| [16-alb-vs-nlb.md](./articles/16-alb-vs-nlb.md) | #11 | ALB vs NLB の選定基準（実務直結） |
+| [17-ecs-vs-eks-vs-fargate.md](./articles/17-ecs-vs-eks-vs-fargate.md) | #47 | ECS/EKS/Fargate選定フロー（中級深掘り） |
+| [18-clf-or-saa-which-first.md](./articles/18-clf-or-saa-which-first.md) | #27+#36 | CLFとSAAどっちから・何時間（初心者集客） |
+| [19-what-to-take-after-saa.md](./articles/19-what-to-take-after-saa.md) | #71 | SAAの次に取る資格【キャリア別】 |
+| [20-microservices-regret-and-win.md](./articles/20-microservices-regret-and-win.md) | #62 | マイクロサービス後悔/良かった（設計判断） |
 
-> 記事は **技術深掘り（04,05,06,07,09,10,11,13,14）× 学習法（01,02）× キャリア/共感（03,08,12）** と
-> カテゴリを散らし、ブランドに幅を持たせています。計14本＝週末1本ペースで約3〜4ヶ月分の発信ストック。
+> 記事は **技術深掘り（04,05,06,07,09,10,11,13,14,15,16,17,20）× 学習法（01,02,18）× キャリア/共感（03,08,12,19）** と
+> カテゴリを散らし、ブランドに幅を持たせています。計20本＝週末1本ペースで約5ヶ月分の発信ストック。
 > 技術記事（Zenn/Qiitaで信頼構築）と拡散記事（X/noteで認知拡大）の両輪が揃っています。
 
 ## 使い方
