@@ -24,7 +24,17 @@
 | [01-content-ideas-100.md](./01-content-ideas-100.md) | 発信ネタ100本 | Phase 1 の発信（Zenn / X / note） |
 | [02-first-article-draft.md](./02-first-article-draft.md) | 最初の記事ドラフト | Zenn / note 初回投稿 |
 | [03-learning-roadmap.md](./03-learning-roadmap.md) | AWS学習ロードマップ | Phase 2 の無料配布リードマグネット |
-| [04-practice-questions.md](./04-practice-questions.md) | 問題集の構成＋サンプル | Phase 3 の主力商品（問題集・模試） |
+| [04-practice-questions.md](./04-practice-questions.md) | 問題集の構成＋サンプル10問 | Phase 3 の主力商品（お試し版） |
+| [05-practice-questions-vol1.md](./05-practice-questions-vol1.md) | カテゴリ別問題集 全30問 | Phase 3 の主力商品（有料1冊） |
+| [articles/](./articles/) | 追加の記事ドラフト集 | Phase 1 の発信ストック |
+
+### articles/ の記事ドラフト
+
+| ファイル | 元ネタ | 狙い |
+|---|---|---|
+| [01-saa-shortest-roadmap.md](./articles/01-saa-shortest-roadmap.md) | #26 | SAA最短合格ロードマップ（SEO集客） |
+| [02-memorization-free-study.md](./articles/02-memorization-free-study.md) | #29 | 暗記に頼らない勉強法（共感・集客） |
+| [03-billing-accident-prevention.md](./articles/03-billing-accident-prevention.md) | #86 | AWS課金事故の防ぎ方（拡散狙い） |
 
 ## 使い方
 
