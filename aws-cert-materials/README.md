@@ -35,6 +35,14 @@
 | [01-saa-shortest-roadmap.md](./articles/01-saa-shortest-roadmap.md) | #26 | SAA最短合格ロードマップ（SEO集客） |
 | [02-memorization-free-study.md](./articles/02-memorization-free-study.md) | #29 | 暗記に頼らない勉強法（共感・集客） |
 | [03-billing-accident-prevention.md](./articles/03-billing-accident-prevention.md) | #86 | AWS課金事故の防ぎ方（拡散狙い） |
+| [04-vpc-design-in-practice.md](./articles/04-vpc-design-in-practice.md) | #1+#4 | 現場のVPC設計（技術的信頼の柱） |
+| [05-sqs-sns-eventbridge.md](./articles/05-sqs-sns-eventbridge.md) | #45 | SQS/SNS/EventBridge使い分け（実務直結） |
+| [06-multi-az-vs-multi-region.md](./articles/06-multi-az-vs-multi-region.md) | #8 | マルチAZ vs マルチリージョン（設計判断） |
+| [07-well-architected-in-plain-words.md](./articles/07-well-architected-in-plain-words.md) | #56 | Well-Architectedを現場の言葉で（設計思想） |
+| [08-does-aws-cert-help-career.md](./articles/08-does-aws-cert-help-career.md) | #66 | 資格は転職に効くか（キャリア・拡散） |
+
+> 記事は **技術深掘り（04,05,06,07）× 学習法（01,02）× キャリア/共感（03,08）** とカテゴリを散らし、
+> ブランドに幅を持たせています。週末に1本ずつ仕上げて発信ストックを積み上げてください。
 
 ## 使い方
 
