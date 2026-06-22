@@ -1,0 +1,36 @@
+name: Publish articles to Qiita
+
+# public/ 配下の Qiita 記事を、Qiita CLI で自動公開するワークフロー。
+#
+# 事前準備（初回のみ）:
+#   1. Qiita の「設定 > アプリケーション」で個人用アクセストークンを発行
+#      （read_qiita / write_qiita のスコープを付与）
+#   2. GitHub リポジトリの Settings > Secrets and variables > Actions に
+#      `QIITA_TOKEN` という名前で登録
+#
+# 公開の挙動:
+#   - 各記事の frontmatter が `ignorePublish: true` の間は公開対象から除外されます。
+#   - 公開したい記事だけ `ignorePublish: false` に変更して push してください。
+#   - 一度公開されると frontmatter に `id` が払い出されるので、その差分もコミットします。
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - "public/**"
+      - ".github/workflows/publish-qiita.yml"
+  workflow_dispatch: {}
+
+jobs:
+  publish_articles:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - name: Publish to Qiita
+        uses: increments/qiita-cli/actions/publish@v1
+        with:
+          qiita-token: ${{ secrets.QIITA_TOKEN }}
+          root: "."

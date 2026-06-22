@@ -64,6 +64,20 @@
 > カテゴリを散らし、ブランドに幅を持たせています。計26本＝週末1本ペースで約6ヶ月分の発信ストック。
 > 技術記事（Zenn/Qiitaで信頼構築）と拡散記事（X/noteで認知拡大）の両輪が揃っています。
 
+## 記事の公開（Zenn / Qiita / note）
+
+正本（`articles/*.md`）から各プラットフォーム向けファイルを自動生成して公開します。
+詳細な手順は **[PUBLISHING.md](./PUBLISHING.md)** を参照。
+
+```bash
+ruby scripts/build_publish_articles.rb   # 正本 → Zenn(/articles) / Qiita(/public) / note(/note) を生成
+```
+
+- **Zenn**: リポジトリ連携で `articles/` を push するだけで公開（`published: true` にした記事のみ）
+- **Qiita**: Qiita CLI + GitHub Actions（`QIITA_TOKEN` を Secrets に登録、`ignorePublish: false` の記事のみ）
+- **note**: `note/` の本文を手動コピペ
+- ⚠️ 一斉公開を避けるため既定は未公開。**週末1本ずつドリップ公開**が鉄則
+
 ## 使い方
 
 1. **01** のネタリストから週末に記事を量産し、X/Zennで発信を習慣化する
